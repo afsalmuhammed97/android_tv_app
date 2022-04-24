@@ -1,0 +1,86 @@
+[
+    {
+        "merged": "F:\\Netderlix\\starter\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "F:\\Netderlix\\starter\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "F:\\Netderlix\\starter\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "F:\\Netderlix\\starter\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "F:\\Netderlix\\starter\\app\\build\\intermediates\\res\\merged\\debug\\drawable_banner.xml.flat",
+        "source": "F:\\Netderlix\\starter\\app\\src\\main\\res\\drawable\\banner.xml"
+    },
+    {
+        "merged": "F:\\Netderlix\\starter\\app\\build\\intermediates\\res\\merged\\debug\\drawable_default_background.xml.flat",
+        "source": "F:\\Netderlix\\starter\\app\\src\\main\\res\\drawable\\default_background.xml"
+    },
+    {
+        "merged": "F:\\Netderlix\\starter\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "F:\\Netderlix\\starter\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\Netderlix\\starter\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "F:\\Netderlix\\starter\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\Netderlix\\starter\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "F:\\Netderlix\\starter\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "F:\\Netderlix\\starter\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "F:\\Netderlix\\starter\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\Netderlix\\starter\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_playback_video.xml.flat",
+        "source": "F:\\Netderlix\\starter\\app\\src\\main\\res\\layout\\fragment_playback_video.xml"
+    },
+    {
+        "merged": "F:\\Netderlix\\starter\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "F:\\Netderlix\\starter\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "F:\\Netderlix\\starter\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_catalog.xml.flat",
+        "source": "F:\\Netderlix\\starter\\app\\src\\main\\res\\layout\\activity_catalog.xml"
+    },
+    {
+        "merged": "F:\\Netderlix\\starter\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "F:\\Netderlix\\starter\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\Netderlix\\starter\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "F:\\Netderlix\\starter\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\Netderlix\\starter\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "F:\\Netderlix\\starter\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\Netderlix\\starter\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "F:\\Netderlix\\starter\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\Netderlix\\starter\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "F:\\Netderlix\\starter\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\Netderlix\\starter\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "F:\\Netderlix\\starter\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\Netderlix\\starter\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "F:\\Netderlix\\starter\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\Netderlix\\starter\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "F:\\Netderlix\\starter\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "F:\\Netderlix\\starter\\app\\build\\intermediates\\res\\merged\\debug\\drawable_movie.xml.flat",
+        "source": "F:\\Netderlix\\starter\\app\\src\\main\\res\\drawable\\movie.xml"
+    },
+    {
+        "merged": "F:\\Netderlix\\starter\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "F:\\Netderlix\\starter\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    }
+]

@@ -1,0 +1,2 @@
+com/raywenderlich/android/netderlix/BuildConfig.java
+ com.raywenderlich.android.netderlix.BuildConfig
